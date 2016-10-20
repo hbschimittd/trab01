@@ -10,7 +10,7 @@ Hélio Braga Schimittd<br>
 Este documento contém a especificação de uma aplicação que será usada para a diciplina de banco de dados.  <br>
 
 ###3	MINI-MUNDO<br>
-Descrever o mini-mundo. Não deve ser maior do que 30 linhas <br>
+Criar uma aplicação com integração com banco de dados. Essa aplicação será resposável basicamente por monitorar e acompanhar a evolução do usuario durante os treinos, entregando resultados de calculos especificos resultante dos valores gerados durante a evolução, mostrantando dicas de exercicío, alimentares e sugestões para facilitar a melhora nos resultados. <br>
 
 ###4	RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
 neste ponto a codificação não e necessária, somente as ideias de telas devem ser criadas, o princípio aqui é pensar na criação da interface para identificar possíveis informações a serem armazenadas ou descartadas <br>
