@@ -4,10 +4,10 @@ Trabalho desenvolvido durante a disciplina de BD1
 #Sumário
 
 ###1	COMPONENTES<br>
-Integrantes do grupo<br>
+Hélio Braga Schimittd<br>
 
 ###2	INTRODUÇÃO E MOTIVAÇAO<br>
-Este documento contém a especificação do projeto do banco de dados <nome do projeto> e motivação da escolha realizada. <br>
+Este documento contém a especificação de uma aplicação que será usada para a diciplina de banco de dados.  <br>
 
 ###3	MINI-MUNDO<br>
 Descrever o mini-mundo. Não deve ser maior do que 30 linhas <br>
