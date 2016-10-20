@@ -1,5 +1,5 @@
 # TRABALHO 01
-Trabalho desenvolvido durante a disciplina de BD
+Trabalho desenvolvido durante a disciplina de BD1
 
 #Sumário
 
