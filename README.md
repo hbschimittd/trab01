@@ -17,7 +17,6 @@ Criar uma aplicação com integração com banco de dados. Essa aplicação ser�
 ![Alt text](https://github.com/hbschimittd/trab01/blob/master/mocf.png "Title")
 
 ###5	MODELO CONCEITUAL<br>
-    5.1 NOTACAO ENTIDADE RELACIONAMENTO
 ![Alt text](https://github.com/hbschimittd/trab01/blob/master/mapa.png "Title")
 
 ####5.1 Validação do Modelo Conceitual
