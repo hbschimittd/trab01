@@ -14,7 +14,7 @@ Criar uma aplicação com integração com banco de dados. Essa aplicação ser�
 
 ###4	RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
 ![Alt text](https://github.com/hbschimittd/trab01/blob/master/moc%201.png "Title")
-![Alt text](https://github.com/hbschimittd/trab01/blob/master/moc6.png "Title")
+![Alt text]https://github.com/hbschimittd/trab01/blob/master/mocf.png "Title")
 
 ###5	MODELO CONCEITUAL<br>
     5.1 NOTACAO ENTIDADE RELACIONAMENTO
