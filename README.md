@@ -18,7 +18,7 @@ Criar uma aplicação com integração com banco de dados. Essa aplicação ser�
 
 ###5	MODELO CONCEITUAL<br>
     5.1 NOTACAO ENTIDADE RELACIONAMENTO
-![Alt text]https://github.com/Cassianokunsch/SMO/blob/master/Class%20Diagram0.jpg "mapa"))
+![Alt text]https://github.com/hbschimittd/trab01/blob/master/mapa.png))
     
     5.2 NOTACAO UML (Caso esteja fazendo a disciplina de analise)
 
