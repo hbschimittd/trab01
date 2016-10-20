@@ -20,5 +20,5 @@ Criar uma aplicação com integração com banco de dados. Essa aplicação ser�
 ![Alt text](https://github.com/hbschimittd/trab01/blob/master/mapa.png "Title")
 
 ####5.1 Validação do Modelo Conceitual
-    [Grupo01]: [Nomes dos que participaram na avaliação]
-    [Grupo02]: [Nomes dos que participaram na avaliação]
+    [Grupo01]: [Cassiano Künsch das Neves]
+    [Grupo02]: [Romildo Costa]
