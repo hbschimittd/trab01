@@ -27,10 +27,7 @@ Criar uma aplicação com integração com banco de dados. Essa aplicação ser�
 
 [atributo]: [descrição da decisão]
 
-EXEMPLO:
-a) Campo endereço: em nosso projeto optamos por um campo multivalorado e composto, pois a empresa 
-pode possuir para cada departamento mais de uma localização... 
-b) justifique!
+- Foi sugerida uma ideia pelo professor de criar mais uma outra entidades COMENTARIO, para gerar uma maior interação entre usuairos e para otimizar as apricações sobre os assuntos discutidos nos comentarios.
 
 ###5.3 DESCRIÇÃO DOS DADOS
 
@@ -39,6 +36,7 @@ b) justifique!
 EXEMPLO:
 CLIENTE: Tabela que armazena as informações relativas ao cliente<br>
 CPF: campo que armazena o número de Cadastro de Pessoa Física para cada cliente da empresa.<br>
+
 ###6 MODELO LÓGICO
 ![Alt text](https://github.com/hbschimittd/trab01/blob/master/logico.jpg "Title")
 
