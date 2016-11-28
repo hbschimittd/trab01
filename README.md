@@ -40,7 +40,7 @@ EXEMPLO:
 CLIENTE: Tabela que armazena as informações relativas ao cliente<br>
 CPF: campo que armazena o número de Cadastro de Pessoa Física para cada cliente da empresa.<br>
 ###6 MODELO LÓGICO
-![Alt text](https://github.com/hbschimittd/trab01/blob/master/modelo%20logico.jpg "Title")
+![Alt text]https://github.com/hbschimittd/trab01/blob/master/logico.jpg "Title")
 
 ###7 MODELO FÍSICO
 
