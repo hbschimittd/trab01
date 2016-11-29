@@ -141,5 +141,7 @@ https://github.com/hbschimittd/trab01/blob/master/GROUP%20BY
 
 ###11 DIFICULDADES ENCONTRADAS PELO GRUPO
 
+Algumas dificuldades no entendimento do trabalho foram apresentadas, mas com a percistencia na execução e com pesquisas as duvidas foram sendo sanadas. No entanto ainda se aprensentava duvidas na estruturação do mesmo, mas também foram solucionadas.
+
 ###12 FORMATACAO NO GIT: https://help.github.com/articles/basic-writing-and-formatting-syntax/
 
