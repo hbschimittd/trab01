@@ -103,7 +103,7 @@ TABLE RESPOSTA: Guarda as informações sobre a resposta dada por um usuário.
 
 9.1 CONSULTAS DAS TABELAS COM TODOS OS DADOS INSERIDOS (Todas) 
 
-    Entrega até este ponto em 08/11/2016
+https://github.com/hbschimittd/trab01/blob/master/Todos%20os%20dados%20de%20todas%20as%20tabelas.sql
     
 ###9.2 CONSULTAS DAS TABELAS COM FILTROS WHERE (Mínimo 3)
 
