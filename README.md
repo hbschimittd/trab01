@@ -107,6 +107,8 @@ https://github.com/hbschimittd/trab01/blob/master/Todos%20os%20dados%20de%20toda
     
 ###9.2 CONSULTAS DAS TABELAS COM FILTROS WHERE (Mínimo 3)
 
+https://github.com/hbschimittd/trab01/blob/master/WHERE
+
 ###9.3 CONSULTAS QUE USAM OPERADORES LÓGICOS, ARITMÉTICOS E CAMPOS RENOMEADOS (Mínimo 2)
 
 ###9.4 CONSULTAS QUE USAM OPERADORES LIKE (Mínimo 3) 
