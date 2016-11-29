@@ -29,8 +29,6 @@ Criar uma aplicação com integração com banco de dados. Essa aplicação ser�
     
 ###5.2 DECISÕES DE PROJETO
 
-[atributo]: [descrição da decisão]
-
 - Foi sugerida uma ideia pelo professor de criar mais uma outra entidades COMENTARIO, para gerar uma maior interação entre usuairos e para otimizar as apricações sobre os assuntos discutidos nos comentarios.
 
 ###5.3 DESCRIÇÃO DOS DADOS
