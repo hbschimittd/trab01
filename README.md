@@ -119,6 +119,8 @@ https://github.com/hbschimittd/trab01/blob/master/LIKE
 
 ###9.5 ATUALIZAÇÃO E EXCLUSÃO DE DADOS (Mínimo 6)
 
+https://github.com/hbschimittd/trab01/blob/master/UPDATE
+
 ###9.6 CONSULTAS COM JUNÇÃO E ORDENAÇÃO (Todas Junções)
 
     Entrega até este ponto em 22/11/2016
