@@ -111,6 +111,8 @@ https://github.com/hbschimittd/trab01/blob/master/WHERE
 
 ###9.3 CONSULTAS QUE USAM OPERADORES LÓGICOS, ARITMÉTICOS E CAMPOS RENOMEADOS (Mínimo 2)
 
+https://github.com/hbschimittd/trab01/blob/master/OPERADORES%20LOGICOS
+
 ###9.4 CONSULTAS QUE USAM OPERADORES LIKE (Mínimo 3) 
 
 ###9.5 ATUALIZAÇÃO E EXCLUSÃO DE DADOS (Mínimo 6)
