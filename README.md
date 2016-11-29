@@ -101,7 +101,7 @@ TABLE RESPOSTA: Guarda as informações sobre a resposta dada por um usuário.
     
 ###9 TABELAS E PRINCIPAIS CONSULTAS
 
-9.1 CONSULTAS DAS TABELAS COM TODOS OS DADOS INSERIDOS (Todas) 
+###9.1 CONSULTAS DAS TABELAS COM TODOS OS DADOS INSERIDOS (Todas) 
 
 https://github.com/hbschimittd/trab01/blob/master/Todos%20os%20dados%20de%20todas%20as%20tabelas.sql
     
