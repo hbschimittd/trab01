@@ -115,6 +115,8 @@ https://github.com/hbschimittd/trab01/blob/master/OPERADORES%20LOGICOS
 
 ###9.4 CONSULTAS QUE USAM OPERADORES LIKE (Mínimo 3) 
 
+https://github.com/hbschimittd/trab01/blob/master/LIKE
+
 ###9.5 ATUALIZAÇÃO E EXCLUSÃO DE DADOS (Mínimo 6)
 
 ###9.6 CONSULTAS COM JUNÇÃO E ORDENAÇÃO (Todas Junções)
