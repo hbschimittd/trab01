@@ -127,6 +127,8 @@ https://github.com/hbschimittd/trab01/blob/master/UPDATE
     
 ###9.7 CONSULTAS COM GROUP BY (Mínimo 5)
 
+https://github.com/hbschimittd/trab01/blob/master/GROUP%20BY
+
 ###9.8 CONSULTAS COM LEFT E RIGHT JOIN (Mínimo 4)
 
 ###9.9 CONSULTAS COM SELF JOIN E VIEW (Todas Possíveis)
