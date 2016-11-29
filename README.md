@@ -4,12 +4,15 @@ Trabalho desenvolvido durante a disciplina de BD1
 #Sumário
 
 ###1	COMPONENTES<br>
+
 Hélio Braga Schimittd<br>
 
 ###2	INTRODUÇÃO E MOTIVAÇAO<br>
+
 Este documento contém a especificação de uma aplicação que será usada para a diciplina de banco de dados.  <br>
 
 ###3	MINI-MUNDO<br>
+
 Criar uma aplicação com integração com banco de dados. Essa aplicação será resposável basicamente por monitorar e acompanhar a evolução do usuario durante os treinos, entregando resultados de calculos especificos resultante dos valores gerados durante a evolução, mostrantando dicas de exercicío, alimentares e sugestões para facilitar a melhora nos resultados. <br>
 
 ###4	RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
@@ -20,6 +23,7 @@ Criar uma aplicação com integração com banco de dados. Essa aplicação ser�
 ![Alt text](https://github.com/hbschimittd/trab01/blob/master/conceitual1.jpg "Title")
 
 ####5.1 Validação do Modelo Conceitual
+
     [Grupo01]: [Cassiano Künsch das Neves]
     [Grupo02]: [Romildo Costa & Pedro Henrique Elias da Cruz Costa]
     
@@ -31,11 +35,46 @@ Criar uma aplicação com integração com banco de dados. Essa aplicação ser�
 
 ###5.3 DESCRIÇÃO DOS DADOS
 
-[objeto]: [descrição do objeto]
+TABLE USUARIO: Tabela que guarda os dados cadastrais do usuario.
+- NOME: Guarda o nome do usuário
+- SEXO: Guarda o sexo do usuário.
+- D_NASCIMENTO: Gauarda a data de nascimento do usuário.
+- E_MAIL: Guarda o e_mail o usuário.
 
-EXEMPLO:
-CLIENTE: Tabela que armazena as informações relativas ao cliente<br>
-CPF: campo que armazena o número de Cadastro de Pessoa Física para cada cliente da empresa.<br>
+TABLE FICHA: Tabela que guarda os dados que podem variar durante o perio da ficha.
+- PESO: Guarda o peso do usuário.
+- ALTURA: Guarda o altura do usuário.
+- QUADRIL: Guarda o tamanto do quadril do usuário.
+- FREQUENCIA: Guarda a freqencia com que o usuário pratica o exercício.
+- D_INICIO: Guarda a data de inicil da ficha.
+- D_FINAL: Guarda a data de finalização da ficha.
+
+TABLE FICHA_EXERCICIO: Tabela que guarda as informações de execução dos exercícios da ficha.
+- QUATIDADE: Guarda a quantidade de vezes o exercício sera executado.
+- SERIE: Guarda quantas vezes as series do exercício sera executada.
+
+TABLE EXERCICIO: Tabela guarda informações mais especificas sobre o exercício.
+- NOME: Guarda o nome do exercicio.
+- IMAGEM: Guarda uma imagem so exercício.
+
+TABLE USUARIO_AVALIACAO: Tabela guarda os resultados obitidos ao decorres do tempo de execução de uma ficha.
+- D_CONSULTA: Guarda a data de consulta dos resultados.
+- IMC: Guarda o Índice de massa corporal para a data de consulta.
+- GCD: Guarda o Gasto Calórico Diário para a data de consulta.
+- IAC: Guarda o Índice de Adiposidade Corporal para a data de consulta.
+- TBM: Guarda o Taxa Metabólica Basal para a data de consulta.
+- PESO: Guarda o peso para a data de consulta.
+
+TABLE COMENTARIO: Guarada as informações sobre o comentario feito entre usuários.
+- ASSUNTO: Guarda o assunto principal do comentario.
+- DATA_COMENT: Guarda a data que o comentario foi feito.
+
+TABLE MENSAGEM: Guarda o conteudo do comentario feito entre usuários.
+- TEXTO: Guarda o texto da mensagem.
+
+TABLE RESPOSTA: Guarda as informações sobre a resposta dada por um usuário.
+- TEXTO_R: Guarda o texto da resposta.
+- DATA_R: Guarada a data em que a resposta foi enviada. 
 
 ###6 MODELO LÓGICO
 ![Alt text](https://github.com/hbschimittd/trab01/blob/master/logico1.jpg "Title")
