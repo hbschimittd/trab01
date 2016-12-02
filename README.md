@@ -118,6 +118,8 @@ SELECT * FROM COMENTARIO;
 https://github.com/hbschimittd/trab01/blob/master/select6.png
 
 SELECT * FROM MENSAGEM;
+https://github.com/hbschimittd/trab01/blob/master/select7.png
+
 SELECT * FROM RESPOSTA;
 
 ###9.2 CONSULTAS DAS TABELAS COM FILTROS WHERE (Mínimo 3)
