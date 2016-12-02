@@ -100,6 +100,8 @@ https://github.com/hbschimittd/trab01/blob/master/insert
 ###9.1 CONSULTAS DAS TABELAS COM TODOS OS DADOS INSERIDOS (Todas) 
 
 SELECT * FROM USUARIO;
+https://github.com/hbschimittd/trab01/blob/master/select1.png
+
 SELECT * FROM FICHA;
 SELECT * FROM FICHA_EXERCICIO;
 SELECT * FROM EXERCICIO;
