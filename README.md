@@ -121,6 +121,7 @@ SELECT * FROM MENSAGEM;
 https://github.com/hbschimittd/trab01/blob/master/select7.png
 
 SELECT * FROM RESPOSTA;
+https://github.com/hbschimittd/trab01/blob/master/select8.png
 
 ###9.2 CONSULTAS DAS TABELAS COM FILTROS WHERE (Mínimo 3)
 
