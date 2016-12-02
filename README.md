@@ -93,19 +93,14 @@ https://github.com/hbschimittd/trab01/blob/master/total
     
 ###8.2 INCLUSÃO DO SCRIPT PARA CRIAÇÃO DE TABELA E INSERÇÃO DOS DADOS
 
-    a) inclusão das instruções para criação das tabelas e estruturas de amazenamento do BD
-    b) inclusão das instruções de inserção dos dados nas referidas tabelas
-    c) inclusão das instruções para execução de outros procedimentos necessários
-
-
-    Entrega até este ponto em 01/11/2016
+https://github.com/hbschimittd/trab01/blob/master/insert
     
 ###9 TABELAS E PRINCIPAIS CONSULTAS
 
 ###9.1 CONSULTAS DAS TABELAS COM TODOS OS DADOS INSERIDOS (Todas) 
 
-https://github.com/hbschimittd/trab01/blob/master/Todos%20os%20dados%20de%20todas%20as%20tabelas.sql
-    
+select 
+
 ###9.2 CONSULTAS DAS TABELAS COM FILTROS WHERE (Mínimo 3)
 
 https://github.com/hbschimittd/trab01/blob/master/WHERE
