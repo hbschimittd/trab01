@@ -87,7 +87,7 @@ https://github.com/hbschimittd/trab01/blob/master/total
 
 a) Os dados seram obtidos por ibserção dos usuarios, por calculos de resultados durante o desenvolvimento das fichas.
 
-b) Como fonte de estudos para desenvolvimento foram usados alguns outros aplicativos para complementação de ideias, alguns estudos foram realizados na area de calculos de desenvolvimentos corporais para descibir os que melhores se encaxariam nas exigencias do projeto.
+b) Como fonte de estudos para desenvolvimento foram usados alguns outros aplicativos para complementação de ideias, alguns estudos foram realizados na área de cálculos de desenvolvimentos corporais para descobri os que melhores se encachariam nas exigências do projeto.
     
 ###8.2 INCLUSÃO DO SCRIPT PARA CRIAÇÃO DE TABELA E INSERÇÃO DOS DADOS
 
