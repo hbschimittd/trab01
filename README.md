@@ -112,6 +112,8 @@ SELECT * FROM EXERCICIO;
 https://github.com/hbschimittd/trab01/blob/master/select4.png
 
 SELECT * FROM USUARIO_AVALIACAO;
+https://github.com/hbschimittd/trab01/blob/master/select5.png
+
 SELECT * FROM COMENTARIO;
 SELECT * FROM MENSAGEM;
 SELECT * FROM RESPOSTA;
