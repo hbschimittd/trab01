@@ -79,7 +79,8 @@ TABLE RESPOSTA: Guarda as informações sobre a resposta dada por um usuário.
 
 ###7 MODELO FÍSICO
 
-    Entrega até este ponto em 25/10/2016
+https://github.com/hbschimittd/trab01/blob/master/total
+
 ###8 INSERT APLICADO NAS TABELAS DO BANCO DE DADOS
 
 ###8.1 DETALHAMENTO DAS INFORMAÇÕES
