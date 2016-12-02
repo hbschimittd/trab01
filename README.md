@@ -103,6 +103,8 @@ SELECT * FROM USUARIO;
 https://github.com/hbschimittd/trab01/blob/master/select1.png
 
 SELECT * FROM FICHA;
+https://github.com/hbschimittd/trab01/blob/master/select2.png
+
 SELECT * FROM FICHA_EXERCICIO;
 SELECT * FROM EXERCICIO;
 SELECT * FROM USUARIO_AVALIACAO;
