@@ -85,11 +85,8 @@ https://github.com/hbschimittd/trab01/blob/master/total
 
 ###8.1 DETALHAMENTO DAS INFORMAÇÕES
 
-    Detalhamento sobre as informações e processo de obtenção ou geração dos dados.
-    Referenciar todas as fontes referentes a :
-    a) obtenção dos dados
-    b) obtenção de códigos reutilizados
-    c) fontes de estudo para desenvolvimento do projeto
+a) Os dados seram obtidos por ibserção dos usuarios, por calculos de resultados durante o desenvolvimento das fichas.
+b) Como fonte de estudos para desenvolvimento foram usados alguns outros aplicativos para complementação de ideias, alguns estudos foram realizados na area de calculos de desenvolvimentos corporais para descibir os que melhores se encaxariam nas exigencias do projeto.
     
 ###8.2 INCLUSÃO DO SCRIPT PARA CRIAÇÃO DE TABELA E INSERÇÃO DOS DADOS
 
@@ -140,8 +137,6 @@ https://github.com/hbschimittd/trab01/blob/master/LIKE
 https://github.com/hbschimittd/trab01/blob/master/UPDATE
 
 ###9.6 CONSULTAS COM JUNÇÃO E ORDENAÇÃO (Todas Junções)
-
-    Entrega até este ponto em 22/11/2016
     
 ###9.7 CONSULTAS COM GROUP BY (Mínimo 5)
 
@@ -152,8 +147,6 @@ https://github.com/hbschimittd/trab01/blob/master/GROUP%20BY
 ###9.9 CONSULTAS COM SELF JOIN E VIEW (Todas Possíveis)
 
 ###9.10 SUBCONSULTAS (Mínimo 3)
-
-    Entrega até este ponto em 29/11/2016
     
 ###10 ATUALIZAÇÃO DA DOCUMENTAÇÃO DOS SLIDES PARA APRESENTAÇAO FINAL (Mínimo 6 e Máximo 10)
 
