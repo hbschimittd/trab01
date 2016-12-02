@@ -115,6 +115,8 @@ SELECT * FROM USUARIO_AVALIACAO;
 https://github.com/hbschimittd/trab01/blob/master/select5.png
 
 SELECT * FROM COMENTARIO;
+https://github.com/hbschimittd/trab01/blob/master/select6.png
+
 SELECT * FROM MENSAGEM;
 SELECT * FROM RESPOSTA;
 
