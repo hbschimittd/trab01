@@ -63,7 +63,7 @@ TABLE USUARIO_AVALIACAO: Tabela guarda os resultados obitidos ao decorres do tem
 - TBM: Guarda o Taxa Metabólica Basal para a data de consulta.
 - PESO: Guarda o peso para a data de consulta.
 
-TABLE COMENTARIO: Guarada as informações sobre o comentario feito entre usuários.
+TABLE COMENTARIO: Guarda as informações sobre o comentario feito entre usuários.
 - ASSUNTO: Guarda o assunto principal do comentario.
 - DATA_COMENT: Guarda a data que o comentario foi feito.
 
