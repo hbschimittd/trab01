@@ -135,11 +135,17 @@ SELECT * FROM RESPOSTA;
 SELECT * FROM USUARIO_AVALIACAO
 WHERE USUARIO_AVALIACAO.IMC < 27.47138398;
 
+![Alt text](https://github.com/hbschimittd/trab01/blob/master/where3.png "Title")
+
 SELECT * FROM USUARIO
 WHERE USUARIO.D_NASCIMENTO >= '13/09/1988';
 
+![Alt text](https://github.com/hbschimittd/trab01/blob/master/where2.png "Title")
+
 SELECT * FROM EXERCICIO
 WHERE EXERCICIO.NOME = 'Supino';
+
+![Alt text](https://github.com/hbschimittd/trab01/blob/master/where3.png "Title")
 
 ###9.3 CONSULTAS QUE USAM OPERADORES LÓGICOS, ARITMÉTICOS E CAMPOS RENOMEADOS (Mínimo 2)
 
