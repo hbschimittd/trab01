@@ -135,7 +135,7 @@ SELECT * FROM RESPOSTA;
 SELECT * FROM USUARIO_AVALIACAO
 WHERE USUARIO_AVALIACAO.IMC < 27.47138398;
 
-![Alt text](https://github.com/hbschimittd/trab01/blob/master/where3.png "Title")
+![Alt text](https://github.com/hbschimittd/trab01/blob/master/where1.png "Title")
 
 SELECT * FROM USUARIO
 WHERE USUARIO.D_NASCIMENTO >= '13/09/1988';
