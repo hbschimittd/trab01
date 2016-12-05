@@ -152,8 +152,12 @@ WHERE EXERCICIO.NOME = 'Supino';
 SELECT * FROM USUARIO
 WHERE USUARIO.D_NASCIMENTO >= '13/09/1988';
 
+![Alt text](https://github.com/hbschimittd/trab01/blob/master/op1.png "Title")
+
 SELECT * FROM FICHA_EXERCICIO
 WHERE FICHA_EXERCICIO.QUANTIDADE <= 25;
+
+![Alt text](https://github.com/hbschimittd/trab01/blob/master/OP2.png "Title")
 
 ###9.4 CONSULTAS QUE USAM OPERADORES LIKE (Mínimo 3) 
 
