@@ -97,7 +97,30 @@ https://github.com/hbschimittd/trab01/blob/master/insert
 
 ###9.1 CONSULTAS DAS TABELAS COM TODOS OS DADOS INSERIDOS (Todas) 
 
-https://github.com/hbschimittd/trab01/blob/master/SELECT
+
+SELECT * FROM USUARIO; 
+![Alt text](https://github.com/hbschimittd/trab01/blob/master/select1.png "Title")
+
+SELECT * FROM FICHA; 
+![Alt text](https://github.com/hbschimittd/trab01/blob/master/select2.png "Title")
+
+SELECT * FROM FICHA_EXERCICIO; 
+![Alt text](https://github.com/hbschimittd/trab01/blob/master/select3.png "Title")
+
+SELECT * FROM EXERCICIO; 
+![Alt text](https://github.com/hbschimittd/trab01/blob/master/select4.png "Title")
+
+SELECT * FROM USUARIO_AVALIACAO; 
+![Alt text](https://github.com/hbschimittd/trab01/blob/master/select5.png "Title")
+
+SELECT * FROM COMENTARIO; 
+![Alt text](https://github.com/hbschimittd/trab01/blob/master/select6.png "Title")
+
+SELECT * FROM MENSAGEM; 
+![Alt text](https://github.com/hbschimittd/trab01/blob/master/select7.png "Title")
+
+SELECT * FROM RESPOSTA; 
+![Alt text](https://github.com/hbschimittd/trab01/blob/master/select8.png "Title")
 
 ###9.2 CONSULTAS DAS TABELAS COM FILTROS WHERE (Mínimo 3)
 
