@@ -164,11 +164,17 @@ WHERE FICHA_EXERCICIO.QUANTIDADE <= 25;
 SELECT * FROM USUARIO
 WHERE NOME LIKE 'L%';
 
+![Alt text](https://github.com/hbschimittd/trab01/blob/master/LIKE1.png "Title")
+
 SELECT * FROM EXERCICIO
 WHERE NOME LIKE 'S%';
 
+![Alt text](https://github.com/hbschimittd/trab01/blob/master/LIKE2.png "Title")
+
 SELECT * FROM COMENTARIO
 WHERE ASSUNTO LIKE 'B%';
+
+![Alt text](https://github.com/hbschimittd/trab01/blob/master/LIKE3.png "Title")
 
 ###9.5 ATUALIZAÇÃO E EXCLUSÃO DE DADOS (Mínimo 6)
 
